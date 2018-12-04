@@ -1,2 +1,2 @@
-# descricao-para-e-commerce
+# e-commerce description
 Descrição para e-commerce
